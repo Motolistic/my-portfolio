@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.f-display { font-family: 'Big Shoulders Display', sans-serif; }
+.f-body { font-family: 'Newsreader', serif; }
+.f-mono { font-family: 'IBM Plex Mono', monospace; }
+.f-ui { font-family: 'Inter', sans-serif; }
+
+body {
+  margin: 0;
+  background: #FAFAF8;
+}
